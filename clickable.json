@@ -1,5 +1,5 @@
 {
   "builder": "qmake",
   "kill": "ubuntu-touch-qtwidgets-calculator-demo.sverzegnassi",
-  "CLICKABLE_QT_VERSION": "5.1"
+  "qt_version": "5.12"
 }
